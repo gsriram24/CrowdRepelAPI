@@ -22,6 +22,8 @@ mongoose
   });
 
 const port = process.env.PORT || 3000;
+var cors = require('cors');
+app.use(cors());
 app.listen(port, () => {
   console.log(`App running on port ${port}...`);
 });
