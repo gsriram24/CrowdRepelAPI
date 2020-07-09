@@ -1,7 +1,8 @@
 # CrowdRepelAPI
 
 This serves the production build of the REST APIs required to run CrowdRepel
-
+Frontend: <https://github.com/sgcuber24/crowd-repel-react>.
+ML Model: <https://github.com/Ashwin-Ramesh2607/Crowd-Human-Detection>
 
 ## Installation
 
